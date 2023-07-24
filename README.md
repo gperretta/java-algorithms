@@ -1,7 +1,6 @@
 # Java Algorithms and Data Structures
 
-Learning-by-doing exercises for a Software Engineering university course & final exam. 
-
+Learning-by-doing exercises.
 
 ## Searching Algorithms
 
